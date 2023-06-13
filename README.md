@@ -1,6 +1,6 @@
 # Layerzero BTC.b bridge farmer
 
-This script move BTC.b token between Polygon-Avalanche networks. This is not a full combine for airdrop. The main purpose of this script is to keep regular activity by moving BTC.B between Polygon/Avalanche networks.
+This script moves BTC.b tokens between Polygon-Avalanche networks. This is not a full combine for airdrop. The main purpose of this script is to keep regular activity by moving BTC.B between Polygon/Avalanche networks.
 
 ## Prerequisites
 
